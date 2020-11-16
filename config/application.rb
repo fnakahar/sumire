@@ -17,3 +17,5 @@ module Sumire
     # the framework and any gems in your application.
   end
 end
+
+# modify this file due to git testq
